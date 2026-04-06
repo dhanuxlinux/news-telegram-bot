@@ -1,1 +1,7 @@
-
+https://techcrunch.com/feed/
+https://www.theverge.com/rss/index.xml
+https://www.engadget.com/rss.xml
+https://www.wired.com/feed/rss
+https://www.zdnet.com/news/rss.xml
+https://www.techradar.com/rss
+https://www.theregister.com/headlines.atom
